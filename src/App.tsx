@@ -2148,7 +2148,7 @@ contract Token is Context, IERC20Metadata, Ownable {
         </div>
       </header>
 
-      <div className='bg-[#FAF7FD] pb-12'>
+      <div className='bg-[#FAFAFB] pb-12'>
         {/* Token Header */}
         <div className="max-w-[86rem] mx-auto px-4 py-6 border-b">
           <div className="flex flex-col md:flex-row gap-y-3 md:items-center md:justify-between">
